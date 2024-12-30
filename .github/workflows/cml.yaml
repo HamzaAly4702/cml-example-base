@@ -15,3 +15,4 @@ jobs:
           python train.py
 
          echo "Hamza und Ellen <3"
+         cat metrics.txt
